@@ -75,7 +75,7 @@ I am now using **SQL, Power BI, and AI integration** to automate financial repor
 | :--- | :--- | :--- |
 | **Payroll Variance Dashboard** | *Power BI, Excel* | Visualizing payroll data for 100+ employees to identify overtime trends and cost centers. |
 | **SMME Financial Health Tracker** | *SQL, Python* | A tool to assess the financial viability of small enterprises based on cash flow and liquidity ratios. |
-| **Sales Performance Analysis** | *Excel, Power Query* | [cite_start]Analyzing historical sales data to forecast future revenue trends (Based on experience at Sharemont Investments)[cite: 3]. |
+| **Sales Performance Analysis** | *Excel, Power Query* | Analyzing historical sales data to forecast future revenue trends (Based on experience at Sharemont Investments)[cite: 3]. |
 
 ---
 

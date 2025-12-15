@@ -9,7 +9,7 @@
     <a href="mailto:Ognamisms@gmail.com">
       <img src="https://img.shields.io/badge/Email-Me-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/">
+    <a href="https://[www.linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/nkululeko-msimango-42378ab2/)/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>

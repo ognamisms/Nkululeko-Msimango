@@ -1,6 +1,7 @@
 <div align="center">
+  <a href="">
   <img src="profile.jpg" alt="Nkululeko Freedom Msimango" width="180" height="180" style="border-radius: 50%; border: 4px solid #006989;" />
-  
+  </a>
   <h1>Hi, I'm Nkululeko Freedom Msimango 👋</h1>
   <h3>Finance & Office Manager | Financial Data Analyst</h3>
   <p>

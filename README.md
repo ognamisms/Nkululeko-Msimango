@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="PASTE_IMAGE_FILE_NAME_HERE" alt="Nkululeko Freedom Msimango" width="150" height="150" style="border-radius: 50%; border: 3px solid #006989;" />
+  
   <h1>Hi, I'm Nkululeko Freedom Msimango 👋</h1>
   <h3>Finance & Office Manager | Financial Data Analyst</h3>
   <p>
@@ -7,10 +9,10 @@
   
   <p>
     <a href="mailto:Ognamisms@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Me-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email_Me-006989?style=for-the-badge&logo=gmail&logoColor=eaebed" alt="Email" />
     </a>
-    <a href="https://[www.linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/nkululeko-msimango-42378ab2/)/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/nkululeko-msimango-42378ab2/">
+      <img src="https://img.shields.io/badge/LinkedIn_Connect-006989?style=for-the-badge&logo=linkedin&logoColor=eaebed" alt="LinkedIn" />
     </a>
   </p>
 </div>
@@ -33,30 +35,35 @@ I am now using **SQL, Power BI, and AI integration** to automate financial repor
 ### 🛠️ Tech Stack & Skills
 
 #### **Data Analysis & Visualization**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 #### **Financial Management**
-![Xero](https://img.shields.io/badge/Xero-13B5EA?style=for-the-badge&logo=xero&logoColor=white)
-![QuickBooks](https://img.shields.io/badge/QuickBooks-2CA01C?style=for-the-badge&logo=quickbooks&logoColor=white)
-![SimplePay](https://img.shields.io/badge/SimplePay-Payroll-blue?style=for-the-badge)
+![Xero](https://img.shields.io/badge/Xero-13B5EA?style=flat-square&logo=xero&logoColor=white)
+![QuickBooks](https://img.shields.io/badge/QuickBooks-2CA01C?style=flat-square&logo=quickbooks&logoColor=white)
+![SimplePay](https://img.shields.io/badge/SimplePay-Payroll-blue?style=flat-square)
 
 #### **Core Competencies**
-`Financial Modeling` `Risk Management` `Forecasting` `Payroll (100+ Staff)` `Data Storytelling` `Ethical Judgment`
+![Financial Modeling](https://img.shields.io/badge/Financial_Modeling-006989?style=flat-square&color=006989)
+![Risk Management](https://img.shields.io/badge/Risk_Management-006989?style=flat-square&color=006989)
+![Forecasting](https://img.shields.io/badge/Forecasting-006989?style=flat-square&color=006989)
+![Payroll (100+ Staff)](https://img.shields.io/badge/Payroll_Management-006989?style=flat-square&color=006989)
+![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-006989?style=flat-square&color=006989)
+![Ethical Judgment](https://img.shields.io/badge/Ethical_Judgment-006989?style=flat-square&color=006989)
 
 ---
 
 ### 💼 Professional Highlights
 
 **Finance & Office Manager | Contour Enviro Group**
-* [cite_start]Managed end-to-end payroll for **100+ employees** ensuring 100% statutory compliance (PAYE, UIF)[cite: 3].
-* [cite_start]Spearheaded SMME Financial Literacy Training, improving partner viability[cite: 3].
-* [cite_start]Oversaw full GL management, reconciliations, and monthly management reporting[cite: 3].
+* [cite_start]Managed end-to-end payroll for **100+ employees** ensuring 100% statutory compliance (PAYE, UIF).
+* [cite_start]Spearheaded SMME Financial Literacy Training, improving partner viability.
+* [cite_start]Oversaw full GL management, reconciliations, and monthly management reporting.
 
 **Treasurer & Board Member | Y4Enviro (NPC)**
-* [cite_start]Responsible for fiscal oversight, liquidity management, and audit readiness[cite: 3].
+* [cite_start]Responsible for fiscal oversight, liquidity management, and audit readiness.
 
 ---
 

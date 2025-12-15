@@ -93,6 +93,3 @@ I am now using **SQL, Power BI, and AI integration** to automate financial repor
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" alt="Stats" />
-</div>

@@ -25,10 +25,10 @@ I am a Cape Town-based **Finance Manager** transitioning into **Financial Data A
 
 I am now using **SQL, Power BI, and AI integration** to automate financial reporting, visualize risk, and tell compelling stories with data.
 
-* [cite_start]🔭 **Current Role:** Finance & Office Manager at Contour Enviro Group[cite: 3].
+* 🔭 **Current Role:** Finance & Office Manager at Contour Enviro Group.
 * 🌱 **Currently Exploring:** Advanced SQL for Financial Modeling & AI Integration in Accounting.
 * 👯 **Open to collaborating on:** Data visualization projects for Non-Profits and SMME financial literacy tools.
-* [cite_start]📍 **Location:** Gordon's Bay / Cape Town, South Africa[cite: 1].
+* 📍 **Location:** Gordon's Bay / Cape Town, South Africa.
 
 ---
 
@@ -58,12 +58,12 @@ I am now using **SQL, Power BI, and AI integration** to automate financial repor
 ### 💼 Professional Highlights
 
 **Finance & Office Manager | Contour Enviro Group**
-* [cite_start]Managed end-to-end payroll for **100+ employees** ensuring 100% statutory compliance (PAYE, UIF).
-* [cite_start]Spearheaded SMME Financial Literacy Training, improving partner viability.
-* [cite_start]Oversaw full GL management, reconciliations, and monthly management reporting.
+* Managed end-to-end payroll for **100+ employees** ensuring 100% statutory compliance (PAYE, UIF).
+* Spearheaded SMME Financial Literacy Training, improving partner viability.
+* Oversaw full GL management, reconciliations, and monthly management reporting.
 
 **Treasurer & Board Member | Y4Enviro (NPC)**
-* [cite_start]Responsible for fiscal oversight, liquidity management, and audit readiness.
+* Responsible for fiscal oversight, liquidity management, and audit readiness.
 
 ---
 

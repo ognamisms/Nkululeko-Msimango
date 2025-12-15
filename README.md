@@ -21,14 +21,14 @@
 
 ### 👨‍💻 About Me
 
-I am a Cape Town-based **Finance Manager** transitioning into **Financial Data Analytics**. [cite_start]With a background in managing full-cycle accounting, payroll for 100+ employees, and board-level treasury roles, I understand the "why" behind the numbers[cite: 2, 3].
+I am a Cape Town-based **Finance Manager** transitioning into **Financial Data Analytics**. With a background in managing full-cycle accounting, payroll for 100+ employees, and board-level treasury roles, I understand the "why" behind the numbers.
 
 I am now using **SQL, Power BI, and AI integration** to automate financial reporting, visualize risk, and tell compelling stories with data.
 
-* [cite_start]🔭 **Current Role:** Finance & Office Manager at Contour Enviro Group[cite: 3].
+* 🔭 **Current Role:** Finance & Office Manager at Contour Enviro Group.
 * 🌱 **Currently Exploring:** Advanced SQL for Financial Modeling & AI Integration in Accounting.
-* [cite_start]👯 **Open to collaborating on:** Data visualization projects for Non-Profits and SMME financial literacy tools[cite: 3].
-* [cite_start]📍 **Location:** Gordon's Bay / Cape Town, South Africa[cite: 1].
+* 👯 **Open to collaborating on:** Data visualization projects for Non-Profits and SMME financial literacy tools.
+* 📍 **Location:** Gordon's Bay / Cape Town, South Africa.
 
 ---
 
@@ -55,27 +55,40 @@ I am now using **SQL, Power BI, and AI integration** to automate financial repor
 
 ---
 
-### 💼 Professional Highlights
+### 💼 Professional Experience
 
-**Finance & Office Manager | Contour Enviro Group**
-* [cite_start]Managed end-to-end payroll for **100+ employees** ensuring 100% statutory compliance (PAYE, UIF)[cite: 3].
-* [cite_start]Spearheaded SMME Financial Literacy Training, improving partner viability[cite: 3].
-* [cite_start]Oversaw full GL management, reconciliations, and monthly management reporting[cite: 3].
+#### **Finance & Office Manager** | *Contour Enviro Group*
+*Jan 2024 – Present*
+* **Payroll:** Directed end-to-end payroll for **100+ employees** ensuring 100% statutory compliance (PAYE, UIF).
+* **Reporting:** Developed and presented critical monthly Management Reports and Budgeting documents for strategic decision-making.
+* **Fiscal Control:** Managed the complete general ledger, high-volume bank reconciliations, and month-end closing procedures.
+* **Development:** Spearheaded SMME Financial Literacy Training for conservation partners.
 
-**Treasurer & Board Member | Y4Enviro (NPC)**
-* [cite_start]Responsible for fiscal oversight, liquidity management, and audit readiness[cite: 3].
+#### **Treasurer & Board Member (Voluntary)** | *Y4Enviro (NPC)*
+*2024 – Present*
+* **Governance:** Responsible for overall financial planning, budgeting, and fiscal integrity.
+* **Liquidity:** Managed cash flow functions and advised the board on risk management strategies.
+* **Compliance:** Ensured high standards of audit readiness for donor accountability.
+
+#### **Executive Assistant** | *Contour Enviro Group*
+*May 2023 – Aug 2023*
+* Provided high-level administrative support to the Managing Director during a period of organizational growth.
+* Facilitated project coordination and managed critical communication streams to support decision-making.
+
+#### **Sales Consultant** | *Sharemont Investments*
+*Apr 2021 – Sep 2021*
+* Engaged in sales and marketing activities for financial products (Quick Trade and Stock Market College).
+* Gained foundational experience in financial services and client relationship management.
 
 ---
 
 ### 📈 Sample Projects (Data + Finance)
 
-*Note: These are examples of how I apply my skills.*
-
 | Project | Tools | Description |
 | :--- | :--- | :--- |
 | **Payroll Variance Dashboard** | *Power BI, Excel* | Visualizing payroll data for 100+ employees to identify overtime trends and cost centers. |
-| **SMME Financial Health Tracker** | *SQL, Python* | [cite_start]A tool to assess the financial viability of small enterprises based on cash flow and liquidity ratios[cite: 2]. |
-| **Sales Performance Analysis** | *Excel, Power Query* | [cite_start]Analyzing historical sales data to forecast future revenue trends (Based on experience at Sharemont Investments)[cite: 3]. |
+| **SMME Financial Health Tracker** | *SQL, Python* | A tool to assess the financial viability of small enterprises based on cash flow and liquidity ratios. |
+| **Sales Performance Analysis** | *Excel, Power Query* | Analyzing historical sales data to forecast future revenue trends. |
 
 ---
 
